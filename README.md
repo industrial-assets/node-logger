@@ -1,6 +1,6 @@
 # node-logger
 
-[http://github.com/quirkey/node-logger](http://github.com/quirkey/node-logger)
+[https://github.com/industrial-assets/node-logger](https://github.com/industrial-assets/node-logger)
 
 ## SUMMARY
 
